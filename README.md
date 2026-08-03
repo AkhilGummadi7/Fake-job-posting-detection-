@@ -1,5 +1,3 @@
-# Fake-job-posting-detection-
-Fake job posting detection using only traditional Machine Learning relies on extracted text and metadata features passed through tabular or statistical classifiers. Unlike deep learning, this approach uses structured feature engineering (like TF-IDF for text and flag counts for metadata) to train lightweight algorithms like Random Forest and etc.
 # Fake Job Posting Detection using Machine Learning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AkhilGummadi7/Fake-job-posting-detection/blob/main/fake_job_detection.ipynb)
